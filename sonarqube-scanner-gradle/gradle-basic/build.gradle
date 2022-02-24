@@ -2,7 +2,7 @@ plugins {
     id "jacoco"
     id "java"
     id "application"
-    id "org.sonarqube" version "3.0"
+    id "org.sonarqube" version "7.9.6"
 }
 
 description = 'Example of SonarQube Scanner for Gradle Usage'
