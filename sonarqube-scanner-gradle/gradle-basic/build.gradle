@@ -6,7 +6,7 @@ plugins {
 }
 
 description = 'Example of SonarQube Scanner for Gradle Usage'
-version = '7.3.2'
+version = '3.14'
 
 sonarqube {
     properties {
